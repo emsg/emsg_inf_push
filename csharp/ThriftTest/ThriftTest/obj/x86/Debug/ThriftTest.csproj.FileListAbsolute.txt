@@ -1,0 +1,11 @@
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\bin\Debug\ThriftTest.exe.config
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\bin\Debug\ThriftTest.exe
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\bin\Debug\ThriftTest.pdb
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\bin\Debug\Thrift.dll
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\bin\Debug\Thrift.pdb
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\obj\x86\Debug\ThriftTest.csprojResolveAssemblyReference.cache
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\obj\x86\Debug\ThriftTest.Form1.resources
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\obj\x86\Debug\ThriftTest.Properties.Resources.resources
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\obj\x86\Debug\ThriftTest.csproj.GenerateResource.Cache
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\obj\x86\Debug\ThriftTest.exe
+c:\users\zq\documents\visual studio 2010\Projects\ThriftTest\ThriftTest\obj\x86\Debug\ThriftTest.pdb
